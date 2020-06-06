@@ -1,0 +1,13 @@
+Genealogie
+Digitalisierte Daten die von alten gescannten Daten wie z.B. matricula stammen und mühsam händisch entziffert werden.
+
+Um ein paralleles Arbeiten an gleichen Dateien zu ermöglichen, werden die Excel/LibreCalc-Dateien im csv-Format gespeichert.
+Git unterstützt das "Mergen" also Vermischen mehrerer Dateiversionen mehr oder weniger komfortabel.
+
+Mit LibreOffice speichern/öffnen Sie die Dateien im CSV-Format mit folgenden Einstellungen:
+  Zeichensatz:  Unicode (UTF-16)
+  Feldtrenner:  ,
+  Zeichenketten-Trenner: "
+  keine der weiteren Optionen auswählen
+
+und nun an die Arbeit ...
